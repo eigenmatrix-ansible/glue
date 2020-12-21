@@ -1,0 +1,7 @@
+namespace: eigenmatrix
+name: glue
+version: 0.0.1
+readme: README.md
+repository: https://github.com/eigenmatrix-ansible/glue
+authors:
+  - 'Johanna Dorothea Reichmann <transcaffeine@finallycoffee.eu>'
